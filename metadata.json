@@ -1,0 +1,7 @@
+{
+  "name": "BanglaVoice & Studio AI",
+  "description": "All-in-one AI Studio for Bangla Text-to-Speech, voice recording & style transformer, Bangla script writer, and text-to-image generator powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
